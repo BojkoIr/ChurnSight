@@ -118,7 +118,7 @@ Streamlit откроет приложение в браузере (обычно 
 
 ## 👤 Автор
 
-**Irina Bojko**  
+**Ирина Мелихова**  
 GitHub: [BojkoIr](https://github.com/BojkoIr)  
 Telegram: [@bojko86](https://t.me/bojko86)
 
