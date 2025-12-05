@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="churnsight.png" width="100%">
+  <img src="https://iimg.su/i/qITbAn" width="100%">
 </p>
 
 # 🏦 ChurnSight — Customer Churn Analytics Dashboard
