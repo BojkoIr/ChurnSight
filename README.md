@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://iimg.su/i/qITbAn" width="100%">
-</p>
-
 # 🏦 ChurnSight — Customer Churn Analytics Dashboard
 
 Интерактивный Streamlit-дашборд для анализа факторов оттока банковских клиентов.
