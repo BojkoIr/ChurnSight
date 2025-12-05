@@ -71,8 +71,8 @@
 ## 🛠 Запуск проекта
 
 ```bash
-git clone https://github.com/BojkoIr/bankproject.git
-cd bankproject
+git clone https://github.com/BojkoIr/ChurnSight.git
+cd ChurnSight
 pip install -r requirements.txt
 streamlit run main.py
 ```
