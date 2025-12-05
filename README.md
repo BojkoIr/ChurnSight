@@ -118,11 +118,11 @@ Streamlit откроет приложение в браузере (обычно 
 
 ## 👤 Автор
 
-**Ирина Мелихова — Data / BI Analyst**  
+**Ирина Мелихова — Data / BI Analyst**
 
-GitHub: [BojkoIr](https://github.com/BojkoIr)  
-Telegram: [@bojko86](https://t.me/bojko86)  
-Email: [bojko_irina@mail.ru](mailto:bojko_irina@mail.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-BojkoIr-181717?style=flat&logo=github)](https://github.com/BojkoIr)
+[![Telegram](https://img.shields.io/badge/Telegram-@bojko86-26A5E4?style=flat&logo=telegram)](https://t.me/bojko86)
+[![Email](https://img.shields.io/badge/Email-bojko__irina%40mail.ru-blue?style=flat&logo=gmail)](mailto:bojko_irina@mail.ru)
 
 ---
 
